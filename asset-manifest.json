@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pbukel/github.io/sd-react-simple-landing-page/static/css/main.e6c13ad2.css",
+    "main.js": "/pbukel/github.io/sd-react-simple-landing-page/static/js/main.1dd3b996.js",
+    "index.html": "/pbukel/github.io/sd-react-simple-landing-page/index.html",
+    "main.e6c13ad2.css.map": "/pbukel/github.io/sd-react-simple-landing-page/static/css/main.e6c13ad2.css.map",
+    "main.1dd3b996.js.map": "/pbukel/github.io/sd-react-simple-landing-page/static/js/main.1dd3b996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1dd3b996.js"
+  ]
+}
